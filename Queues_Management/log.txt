@@ -1,0 +1,111 @@
+Time 0
+Waiting tasks: 
+Task (5, 2, 3)
+Task (1, 3, 5)
+Task (2, 3, 5)
+Task (3, 3, 5)
+Task (6, 3, 5)
+Task (4, 4, 3)
+Task (7, 4, 3)
+ALL SERVERS: 
+Empty
+Empty
+Time 1
+Waiting tasks: 
+Task (5, 2, 3)
+Task (1, 3, 5)
+Task (2, 3, 5)
+Task (3, 3, 5)
+Task (6, 3, 5)
+Task (4, 4, 3)
+Task (7, 4, 3)
+ALL SERVERS: 
+Empty
+Empty
+Time 2
+Waiting tasks: 
+Task (1, 3, 5)
+Task (2, 3, 5)
+Task (3, 3, 5)
+Task (6, 3, 5)
+Task (4, 4, 3)
+Task (7, 4, 3)
+ALL SERVERS: 
+SERVER: 5[Arrival: 2, Service: 3] 
+Empty
+Time 3
+Waiting tasks: 
+Task (4, 4, 3)
+Task (7, 4, 3)
+ALL SERVERS: 
+SERVER: 5[Arrival: 2, Service: 2] 2[Arrival: 3, Service: 5] 6[Arrival: 3, Service: 5] 
+SERVER: 1[Arrival: 3, Service: 5] 3[Arrival: 3, Service: 5] 
+Time 4
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 5[Arrival: 2, Service: 1] 2[Arrival: 3, Service: 5] 6[Arrival: 3, Service: 5] 7[Arrival: 4, Service: 3] 
+SERVER: 1[Arrival: 3, Service: 4] 3[Arrival: 3, Service: 5] 4[Arrival: 4, Service: 3] 
+Time 5
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 2[Arrival: 3, Service: 5] 6[Arrival: 3, Service: 5] 7[Arrival: 4, Service: 3] 
+SERVER: 1[Arrival: 3, Service: 3] 3[Arrival: 3, Service: 5] 4[Arrival: 4, Service: 3] 
+Time 6
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 2[Arrival: 3, Service: 4] 6[Arrival: 3, Service: 5] 7[Arrival: 4, Service: 3] 
+SERVER: 1[Arrival: 3, Service: 2] 3[Arrival: 3, Service: 5] 4[Arrival: 4, Service: 3] 
+Time 7
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 2[Arrival: 3, Service: 3] 6[Arrival: 3, Service: 5] 7[Arrival: 4, Service: 3] 
+SERVER: 1[Arrival: 3, Service: 1] 3[Arrival: 3, Service: 5] 4[Arrival: 4, Service: 3] 
+Time 8
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 2[Arrival: 3, Service: 2] 6[Arrival: 3, Service: 5] 7[Arrival: 4, Service: 3] 
+SERVER: 3[Arrival: 3, Service: 5] 4[Arrival: 4, Service: 3] 
+Time 9
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 2[Arrival: 3, Service: 1] 6[Arrival: 3, Service: 5] 7[Arrival: 4, Service: 3] 
+SERVER: 3[Arrival: 3, Service: 4] 4[Arrival: 4, Service: 3] 
+Time 10
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 6[Arrival: 3, Service: 5] 7[Arrival: 4, Service: 3] 
+SERVER: 3[Arrival: 3, Service: 3] 4[Arrival: 4, Service: 3] 
+Time 11
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 6[Arrival: 3, Service: 4] 7[Arrival: 4, Service: 3] 
+SERVER: 3[Arrival: 3, Service: 2] 4[Arrival: 4, Service: 3] 
+Time 12
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 6[Arrival: 3, Service: 3] 7[Arrival: 4, Service: 3] 
+SERVER: 3[Arrival: 3, Service: 1] 4[Arrival: 4, Service: 3] 
+Time 13
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 6[Arrival: 3, Service: 2] 7[Arrival: 4, Service: 3] 
+SERVER: 4[Arrival: 4, Service: 3] 
+Time 14
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 6[Arrival: 3, Service: 1] 7[Arrival: 4, Service: 3] 
+SERVER: 4[Arrival: 4, Service: 2] 
+Time 15
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 7[Arrival: 4, Service: 3] 
+SERVER: 4[Arrival: 4, Service: 1] 
+Time 16
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 7[Arrival: 4, Service: 2] 
+Empty
+-----------------Raport----------------
+Average waiting time: 4.1666665
+Average serving time: 4.3333335
+Peak hour: 4

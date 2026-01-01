@@ -1,0 +1,243 @@
+Time 0
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 1
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 2
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 3
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 4
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 5
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 6
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 7
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 8
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 9
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 10
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 11
+Waiting tasks: 
+Task (3, 12, 3)
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 12
+Waiting tasks: 
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+SERVER: 3[Arrival: 12, Service: 3] 
+Empty
+Time 13
+Waiting tasks: 
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+SERVER: 3[Arrival: 12, Service: 3] 
+Empty
+Time 14
+Waiting tasks: 
+Task (2, 15, 3)
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+SERVER: 3[Arrival: 12, Service: 1] 
+Empty
+Time 15
+Waiting tasks: 
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+SERVER: 2[Arrival: 15, Service: 3] 
+Time 16
+Waiting tasks: 
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+SERVER: 2[Arrival: 15, Service: 2] 
+Time 17
+Waiting tasks: 
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+SERVER: 2[Arrival: 15, Service: 1] 
+Time 18
+Waiting tasks: 
+Task (4, 19, 2)
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+SERVER: 2[Arrival: 15, Service: 1] 
+Time 19
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+SERVER: 4[Arrival: 19, Service: 2] 
+Empty
+Time 20
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+SERVER: 4[Arrival: 19, Service: 1] 
+Empty
+Time 21
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 22
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 23
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 24
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 25
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 26
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 27
+Waiting tasks: 
+Task (1, 28, 4)
+ALL SERVERS: 
+Empty
+Empty
+Time 28
+Waiting tasks: 
+ALL SERVERS: 
+Empty
+SERVER: 1[Arrival: 28, Service: 4] 
+Time 29
+Waiting tasks: 
+ALL SERVERS: 
+Empty
+SERVER: 1[Arrival: 28, Service: 3] 
+Time 30
+Waiting tasks: 
+ALL SERVERS: 
+Empty
+SERVER: 1[Arrival: 28, Service: 2] 
+Time 31
+Waiting tasks: 
+ALL SERVERS: 
+Empty
+SERVER: 1[Arrival: 28, Service: 1] 
+Time 32
+Waiting tasks: 
+ALL SERVERS: 
+Empty
+Empty
+-----------------Raport----------------
+Average waiting time: 0.5
+Average serving time: 3.0
+Peak hour: 15

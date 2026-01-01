@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="dPMZHhEfLfA5fVLsUtC4">
+    <mxGraphModel dx="1518" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-1" value="&lt;b&gt;SimulationManager&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- scheduler: Scheduler&lt;/div&gt;&lt;div&gt;- frame: SimulationFrame&lt;/div&gt;&lt;div&gt;- tasks: List&amp;lt;Task&amp;gt;&lt;/div&gt;&lt;div&gt;- selectionPolicy: SelectionPolicy&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ generateRandomTask(): void&lt;/div&gt;&lt;div&gt;+ run(): void&lt;/div&gt;&lt;div&gt;+ fillInLog(): void&lt;/div&gt;&lt;div&gt;+ calculateServiceTime(): void&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-2" value="&lt;b&gt;Scheduler&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;- servers: List &amp;lt;Server&amp;gt;&lt;/div&gt;&lt;div&gt;- maxNoServers: int&lt;/div&gt;&lt;div&gt;- maxTasksPerServer: int&lt;/div&gt;&lt;div&gt;- startegy: Strategy&lt;/div&gt;&lt;div&gt;-policy: SelectionPolicy&lt;/div&gt;&lt;div&gt;- serverListener: listener&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ getNoOfServers(): int&lt;/div&gt;&lt;div&gt;+ changeStrategy(selectionPolicy: selectionPolicy): void&lt;/div&gt;&lt;div&gt;+ dispatchTask(task: Task): void&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="50" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-3" value="&lt;b&gt;Strategy&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;+ addTask(servers: List&amp;lt;Server&amp;gt;, task: Task): void&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="290" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-4" value="&lt;b&gt;ConcreteStrategyTime&lt;/b&gt;&lt;div&gt;+addTask(servers: List&amp;gt;Server&amp;gt;, task: Task): Server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-5" value="&lt;b&gt;ConcreteQueueStrategy&lt;/b&gt;&lt;br&gt;&lt;div&gt;+addTask(servers: List&amp;gt;Server&amp;gt;, task: Task): Server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="390" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-6" value="&lt;b&gt;ServerListener&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ onTaskAdded(Task task, Server server): void&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; +&amp;nbsp; onTaskUpdated(Task task): void&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + onTaskRemoved(Task task: void&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-7" value="&lt;b&gt;Task&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;-ID: int&lt;/div&gt;&lt;div&gt;- arrivalTime: int&lt;/div&gt;&lt;div&gt;- serviceTime: int&lt;/div&gt;&lt;div&gt;-waitingTime: int&lt;/div&gt;&lt;div&gt;-started: boolean&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ decreaseServiceTime(): void&lt;/div&gt;&lt;div&gt;+ increaseWaitingTime(): void&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-8" value="&lt;b&gt;Server&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tasks: BlockingQueue&amp;lt;Task&amp;gt;&lt;/div&gt;&lt;div&gt;- waitingPeriod: AtomicInteger&lt;/div&gt;&lt;div&gt;- id: int&lt;/div&gt;&lt;div&gt;-listener: ServerListener&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+addTask(Task task): void&lt;/div&gt;&lt;div&gt;+ run: void&lt;/div&gt;&lt;div&gt;+ notifyTaskUpdate(Task t): void&lt;/div&gt;&lt;div&gt;+notifyTaskRemoved(Task t): void&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-9" value="&lt;b&gt;SimulationFrame&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;- tasks:&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List&amp;lt;TaskPanel&amp;gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -simulationManager:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SimulationManager&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - servers : L&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ist&amp;lt;ServerPanel&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -stopWatch&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;StopWatch&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - animationPane:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;JPanel&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ moveTaskToServer(Task t, Server s): void&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+removeTaskFromServer(Task t): void&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+updateTaskServer(Task t): void&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="650" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-10" value="&lt;b&gt;StopWatch&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;- timeLabe: Jlabel&lt;/div&gt;&lt;div&gt;-imageLaabe: JLabel&lt;/div&gt;&lt;div&gt;-seconds: int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ start: void&lt;/div&gt;&lt;div&gt;+ stop: void&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-11" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;b&gt;InputPage&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;timeLimitField:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;JTextField&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -maxProcessingTimeField:&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;JTextField&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -minProcessingTimeField:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;JTextField&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="670" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mDoydRNhjs9LYRqy3pAh-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="150" as="sourcePoint" />
+            <mxPoint x="620" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-2" target="mDoydRNhjs9LYRqy3pAh-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="sourcePoint" />
+            <mxPoint x="620" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-19" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.582;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.605;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-3" target="mDoydRNhjs9LYRqy3pAh-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="380" as="sourcePoint" />
+            <mxPoint x="680" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-20" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.42;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-3" target="mDoydRNhjs9LYRqy3pAh-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="732" y="360" as="sourcePoint" />
+            <mxPoint x="690" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-21" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.017;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-7" target="mDoydRNhjs9LYRqy3pAh-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="500" as="sourcePoint" />
+            <mxPoint x="400" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="515" />
+              <mxPoint x="400" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-22" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.182;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mDoydRNhjs9LYRqy3pAh-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="530" as="sourcePoint" />
+            <mxPoint x="460" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="530" />
+              <mxPoint x="440" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-25" value="implements" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mDoydRNhjs9LYRqy3pAh-22">
+          <mxGeometry x="0.6075" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-23" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="760" y="520" as="sourcePoint" />
+            <mxPoint x="760" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-24" value="uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mDoydRNhjs9LYRqy3pAh-23">
+          <mxGeometry x="0.1847" y="5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-26" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-11" target="mDoydRNhjs9LYRqy3pAh-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="752" y="380" as="sourcePoint" />
+            <mxPoint x="645" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-27" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-11" target="mDoydRNhjs9LYRqy3pAh-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="762" y="390" as="sourcePoint" />
+            <mxPoint x="70" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="900" />
+              <mxPoint x="80" y="900" />
+              <mxPoint x="80" y="280" />
+              <mxPoint x="80" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDoydRNhjs9LYRqy3pAh-28" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=-0.016;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mDoydRNhjs9LYRqy3pAh-10" target="mDoydRNhjs9LYRqy3pAh-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="525" as="sourcePoint" />
+            <mxPoint x="530" y="680" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

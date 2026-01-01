@@ -1,0 +1,1415 @@
+Time 0
+Waiting tasks: 
+Task (13, 3, 7)
+Task (9, 4, 4)
+Task (20, 4, 7)
+Task (47, 4, 7)
+Task (5, 5, 7)
+Task (22, 5, 6)
+Task (1, 6, 2)
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+Empty
+Empty
+Empty
+Empty
+Empty
+Time 1
+Waiting tasks: 
+Task (13, 3, 7)
+Task (9, 4, 4)
+Task (20, 4, 7)
+Task (47, 4, 7)
+Task (5, 5, 7)
+Task (22, 5, 6)
+Task (1, 6, 2)
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+Empty
+Empty
+Empty
+Empty
+Empty
+Time 2
+Waiting tasks: 
+Task (13, 3, 7)
+Task (9, 4, 4)
+Task (20, 4, 7)
+Task (47, 4, 7)
+Task (5, 5, 7)
+Task (22, 5, 6)
+Task (1, 6, 2)
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+Empty
+Empty
+Empty
+Empty
+Empty
+Time 3
+Waiting tasks: 
+Task (9, 4, 4)
+Task (20, 4, 7)
+Task (47, 4, 7)
+Task (5, 5, 7)
+Task (22, 5, 6)
+Task (1, 6, 2)
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 13[Arrival: 3, Service: 7] 
+Empty
+Empty
+Empty
+Empty
+Time 4
+Waiting tasks: 
+Task (5, 5, 7)
+Task (22, 5, 6)
+Task (1, 6, 2)
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 13[Arrival: 3, Service: 6] 
+SERVER: 9[Arrival: 4, Service: 4] 
+SERVER: 20[Arrival: 4, Service: 7] 
+SERVER: 47[Arrival: 4, Service: 7] 
+Empty
+Time 5
+Waiting tasks: 
+Task (1, 6, 2)
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 13[Arrival: 3, Service: 5] 
+SERVER: 9[Arrival: 4, Service: 3] 22[Arrival: 5, Service: 6] 
+SERVER: 20[Arrival: 4, Service: 6] 
+SERVER: 47[Arrival: 4, Service: 6] 
+SERVER: 5[Arrival: 5, Service: 7] 
+Time 6
+Waiting tasks: 
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 13[Arrival: 3, Service: 4] 1[Arrival: 6, Service: 2] 
+SERVER: 9[Arrival: 4, Service: 2] 22[Arrival: 5, Service: 6] 
+SERVER: 20[Arrival: 4, Service: 5] 
+SERVER: 47[Arrival: 4, Service: 5] 
+SERVER: 5[Arrival: 5, Service: 6] 
+Time 7
+Waiting tasks: 
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 13[Arrival: 3, Service: 3] 1[Arrival: 6, Service: 2] 
+SERVER: 9[Arrival: 4, Service: 1] 22[Arrival: 5, Service: 6] 
+SERVER: 20[Arrival: 4, Service: 4] 
+SERVER: 47[Arrival: 4, Service: 4] 
+SERVER: 5[Arrival: 5, Service: 5] 
+Time 8
+Waiting tasks: 
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 13[Arrival: 3, Service: 2] 1[Arrival: 6, Service: 2] 
+SERVER: 22[Arrival: 5, Service: 6] 
+SERVER: 20[Arrival: 4, Service: 3] 
+SERVER: 47[Arrival: 4, Service: 3] 
+SERVER: 5[Arrival: 5, Service: 4] 
+Time 9
+Waiting tasks: 
+Task (2, 10, 1)
+Task (15, 10, 3)
+Task (42, 10, 4)
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 13[Arrival: 3, Service: 1] 1[Arrival: 6, Service: 2] 
+SERVER: 22[Arrival: 5, Service: 5] 
+SERVER: 20[Arrival: 4, Service: 2] 
+SERVER: 47[Arrival: 4, Service: 2] 
+SERVER: 5[Arrival: 5, Service: 3] 
+Time 10
+Waiting tasks: 
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 1[Arrival: 6, Service: 2] 
+SERVER: 22[Arrival: 5, Service: 4] 
+SERVER: 20[Arrival: 4, Service: 1] 15[Arrival: 10, Service: 3] 
+SERVER: 47[Arrival: 4, Service: 1] 2[Arrival: 10, Service: 1] 42[Arrival: 10, Service: 4] 
+SERVER: 5[Arrival: 5, Service: 2] 
+Time 11
+Waiting tasks: 
+Task (27, 12, 7)
+Task (46, 12, 6)
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 1[Arrival: 6, Service: 1] 
+SERVER: 22[Arrival: 5, Service: 3] 
+SERVER: 15[Arrival: 10, Service: 3] 
+SERVER: 2[Arrival: 10, Service: 1] 42[Arrival: 10, Service: 4] 
+SERVER: 5[Arrival: 5, Service: 1] 
+Time 12
+Waiting tasks: 
+Task (4, 13, 6)
+Task (38, 13, 1)
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 46[Arrival: 12, Service: 6] 
+SERVER: 22[Arrival: 5, Service: 2] 
+SERVER: 15[Arrival: 10, Service: 2] 
+SERVER: 42[Arrival: 10, Service: 4] 
+SERVER: 27[Arrival: 12, Service: 7] 
+Time 13
+Waiting tasks: 
+Task (26, 14, 7)
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 46[Arrival: 12, Service: 5] 
+SERVER: 22[Arrival: 5, Service: 1] 38[Arrival: 13, Service: 1] 
+SERVER: 15[Arrival: 10, Service: 1] 4[Arrival: 13, Service: 6] 
+SERVER: 42[Arrival: 10, Service: 3] 
+SERVER: 27[Arrival: 12, Service: 6] 
+Time 14
+Waiting tasks: 
+Task (8, 15, 7)
+Task (16, 15, 4)
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 46[Arrival: 12, Service: 4] 
+SERVER: 38[Arrival: 13, Service: 1] 26[Arrival: 14, Service: 7] 
+SERVER: 4[Arrival: 13, Service: 6] 
+SERVER: 42[Arrival: 10, Service: 2] 
+SERVER: 27[Arrival: 12, Service: 5] 
+Time 15
+Waiting tasks: 
+Task (31, 16, 5)
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 46[Arrival: 12, Service: 3] 16[Arrival: 15, Service: 4] 
+SERVER: 26[Arrival: 14, Service: 7] 
+SERVER: 4[Arrival: 13, Service: 5] 
+SERVER: 42[Arrival: 10, Service: 1] 8[Arrival: 15, Service: 7] 
+SERVER: 27[Arrival: 12, Service: 4] 
+Time 16
+Waiting tasks: 
+Task (10, 17, 2)
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 46[Arrival: 12, Service: 2] 16[Arrival: 15, Service: 4] 
+SERVER: 26[Arrival: 14, Service: 6] 
+SERVER: 4[Arrival: 13, Service: 4] 
+SERVER: 8[Arrival: 15, Service: 7] 
+SERVER: 27[Arrival: 12, Service: 3] 31[Arrival: 16, Service: 5] 
+Time 17
+Waiting tasks: 
+Task (6, 18, 3)
+Task (29, 18, 3)
+Task (37, 18, 1)
+Task (49, 18, 6)
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 46[Arrival: 12, Service: 1] 16[Arrival: 15, Service: 4] 
+SERVER: 26[Arrival: 14, Service: 5] 
+SERVER: 4[Arrival: 13, Service: 3] 10[Arrival: 17, Service: 2] 
+SERVER: 8[Arrival: 15, Service: 6] 
+SERVER: 27[Arrival: 12, Service: 2] 31[Arrival: 16, Service: 5] 
+Time 18
+Waiting tasks: 
+Task (40, 19, 2)
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 16[Arrival: 15, Service: 4] 29[Arrival: 18, Service: 3] 
+SERVER: 26[Arrival: 14, Service: 4] 37[Arrival: 18, Service: 1] 
+SERVER: 4[Arrival: 13, Service: 2] 10[Arrival: 17, Service: 2] 6[Arrival: 18, Service: 3] 
+SERVER: 8[Arrival: 15, Service: 5] 
+SERVER: 27[Arrival: 12, Service: 1] 31[Arrival: 16, Service: 5] 49[Arrival: 18, Service: 6] 
+Time 19
+Waiting tasks: 
+Task (17, 20, 5)
+Task (24, 20, 7)
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 16[Arrival: 15, Service: 3] 29[Arrival: 18, Service: 3] 
+SERVER: 26[Arrival: 14, Service: 3] 37[Arrival: 18, Service: 1] 40[Arrival: 19, Service: 2] 
+SERVER: 4[Arrival: 13, Service: 1] 10[Arrival: 17, Service: 2] 6[Arrival: 18, Service: 3] 
+SERVER: 8[Arrival: 15, Service: 4] 
+SERVER: 31[Arrival: 16, Service: 5] 49[Arrival: 18, Service: 6] 
+Time 20
+Waiting tasks: 
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 16[Arrival: 15, Service: 2] 29[Arrival: 18, Service: 3] 24[Arrival: 20, Service: 7] 
+SERVER: 26[Arrival: 14, Service: 2] 37[Arrival: 18, Service: 1] 40[Arrival: 19, Service: 2] 
+SERVER: 10[Arrival: 17, Service: 2] 6[Arrival: 18, Service: 3] 
+SERVER: 8[Arrival: 15, Service: 3] 17[Arrival: 20, Service: 5] 
+SERVER: 31[Arrival: 16, Service: 4] 49[Arrival: 18, Service: 6] 
+Time 21
+Waiting tasks: 
+Task (25, 22, 3)
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 16[Arrival: 15, Service: 1] 29[Arrival: 18, Service: 3] 24[Arrival: 20, Service: 7] 
+SERVER: 26[Arrival: 14, Service: 1] 37[Arrival: 18, Service: 1] 40[Arrival: 19, Service: 2] 
+SERVER: 10[Arrival: 17, Service: 1] 6[Arrival: 18, Service: 3] 
+SERVER: 8[Arrival: 15, Service: 2] 17[Arrival: 20, Service: 5] 
+SERVER: 31[Arrival: 16, Service: 3] 49[Arrival: 18, Service: 6] 
+Time 22
+Waiting tasks: 
+Task (12, 23, 2)
+Task (18, 23, 5)
+Task (23, 23, 4)
+Task (41, 23, 6)
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 29[Arrival: 18, Service: 3] 24[Arrival: 20, Service: 7] 
+SERVER: 37[Arrival: 18, Service: 1] 40[Arrival: 19, Service: 2] 25[Arrival: 22, Service: 3] 
+SERVER: 6[Arrival: 18, Service: 3] 
+SERVER: 8[Arrival: 15, Service: 1] 17[Arrival: 20, Service: 5] 
+SERVER: 31[Arrival: 16, Service: 2] 49[Arrival: 18, Service: 6] 
+Time 23
+Waiting tasks: 
+Task (19, 24, 3)
+Task (35, 24, 2)
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 29[Arrival: 18, Service: 2] 24[Arrival: 20, Service: 7] 
+SERVER: 40[Arrival: 19, Service: 2] 25[Arrival: 22, Service: 3] 
+SERVER: 6[Arrival: 18, Service: 2] 12[Arrival: 23, Service: 2] 18[Arrival: 23, Service: 5] 
+SERVER: 17[Arrival: 20, Service: 5] 23[Arrival: 23, Service: 4] 
+SERVER: 31[Arrival: 16, Service: 1] 49[Arrival: 18, Service: 6] 41[Arrival: 23, Service: 6] 
+Time 24
+Waiting tasks: 
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 29[Arrival: 18, Service: 1] 24[Arrival: 20, Service: 7] 35[Arrival: 24, Service: 2] 
+SERVER: 40[Arrival: 19, Service: 1] 25[Arrival: 22, Service: 3] 19[Arrival: 24, Service: 3] 
+SERVER: 6[Arrival: 18, Service: 1] 12[Arrival: 23, Service: 2] 18[Arrival: 23, Service: 5] 
+SERVER: 17[Arrival: 20, Service: 4] 23[Arrival: 23, Service: 4] 
+SERVER: 49[Arrival: 18, Service: 6] 41[Arrival: 23, Service: 6] 
+Time 25
+Waiting tasks: 
+Task (3, 26, 6)
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 24[Arrival: 20, Service: 7] 35[Arrival: 24, Service: 2] 
+SERVER: 25[Arrival: 22, Service: 3] 19[Arrival: 24, Service: 3] 
+SERVER: 12[Arrival: 23, Service: 2] 18[Arrival: 23, Service: 5] 
+SERVER: 17[Arrival: 20, Service: 3] 23[Arrival: 23, Service: 4] 
+SERVER: 49[Arrival: 18, Service: 5] 41[Arrival: 23, Service: 6] 
+Time 26
+Waiting tasks: 
+Task (11, 27, 4)
+Task (44, 27, 2)
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 24[Arrival: 20, Service: 6] 35[Arrival: 24, Service: 2] 
+SERVER: 25[Arrival: 22, Service: 2] 19[Arrival: 24, Service: 3] 
+SERVER: 12[Arrival: 23, Service: 1] 18[Arrival: 23, Service: 5] 
+SERVER: 17[Arrival: 20, Service: 2] 23[Arrival: 23, Service: 4] 3[Arrival: 26, Service: 6] 
+SERVER: 49[Arrival: 18, Service: 4] 41[Arrival: 23, Service: 6] 
+Time 27
+Waiting tasks: 
+Task (36, 28, 3)
+Task (43, 28, 7)
+Task (50, 28, 5)
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 24[Arrival: 20, Service: 5] 35[Arrival: 24, Service: 2] 
+SERVER: 25[Arrival: 22, Service: 1] 19[Arrival: 24, Service: 3] 11[Arrival: 27, Service: 4] 
+SERVER: 18[Arrival: 23, Service: 5] 44[Arrival: 27, Service: 2] 
+SERVER: 17[Arrival: 20, Service: 1] 23[Arrival: 23, Service: 4] 3[Arrival: 26, Service: 6] 
+SERVER: 49[Arrival: 18, Service: 3] 41[Arrival: 23, Service: 6] 
+Time 28
+Waiting tasks: 
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 24[Arrival: 20, Service: 4] 35[Arrival: 24, Service: 2] 36[Arrival: 28, Service: 3] 
+SERVER: 19[Arrival: 24, Service: 3] 11[Arrival: 27, Service: 4] 
+SERVER: 18[Arrival: 23, Service: 4] 44[Arrival: 27, Service: 2] 50[Arrival: 28, Service: 5] 
+SERVER: 23[Arrival: 23, Service: 4] 3[Arrival: 26, Service: 6] 
+SERVER: 49[Arrival: 18, Service: 2] 41[Arrival: 23, Service: 6] 43[Arrival: 28, Service: 7] 
+Time 29
+Waiting tasks: 
+Task (32, 30, 1)
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 24[Arrival: 20, Service: 3] 35[Arrival: 24, Service: 2] 36[Arrival: 28, Service: 3] 
+SERVER: 19[Arrival: 24, Service: 2] 11[Arrival: 27, Service: 4] 
+SERVER: 18[Arrival: 23, Service: 3] 44[Arrival: 27, Service: 2] 50[Arrival: 28, Service: 5] 
+SERVER: 23[Arrival: 23, Service: 3] 3[Arrival: 26, Service: 6] 
+SERVER: 49[Arrival: 18, Service: 1] 41[Arrival: 23, Service: 6] 43[Arrival: 28, Service: 7] 
+Time 30
+Waiting tasks: 
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 24[Arrival: 20, Service: 2] 35[Arrival: 24, Service: 2] 36[Arrival: 28, Service: 3] 32[Arrival: 30, Service: 1] 
+SERVER: 19[Arrival: 24, Service: 1] 11[Arrival: 27, Service: 4] 
+SERVER: 18[Arrival: 23, Service: 2] 44[Arrival: 27, Service: 2] 50[Arrival: 28, Service: 5] 
+SERVER: 23[Arrival: 23, Service: 2] 3[Arrival: 26, Service: 6] 
+SERVER: 41[Arrival: 23, Service: 6] 43[Arrival: 28, Service: 7] 
+Time 31
+Waiting tasks: 
+Task (28, 32, 5)
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 24[Arrival: 20, Service: 1] 35[Arrival: 24, Service: 2] 36[Arrival: 28, Service: 3] 32[Arrival: 30, Service: 1] 
+SERVER: 11[Arrival: 27, Service: 4] 
+SERVER: 18[Arrival: 23, Service: 1] 44[Arrival: 27, Service: 2] 50[Arrival: 28, Service: 5] 
+SERVER: 23[Arrival: 23, Service: 1] 3[Arrival: 26, Service: 6] 
+SERVER: 41[Arrival: 23, Service: 5] 43[Arrival: 28, Service: 7] 
+Time 32
+Waiting tasks: 
+Task (30, 33, 4)
+Task (33, 33, 5)
+Task (39, 33, 2)
+Task (45, 33, 5)
+Task (48, 33, 6)
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 35[Arrival: 24, Service: 2] 36[Arrival: 28, Service: 3] 32[Arrival: 30, Service: 1] 
+SERVER: 11[Arrival: 27, Service: 3] 28[Arrival: 32, Service: 5] 
+SERVER: 44[Arrival: 27, Service: 2] 50[Arrival: 28, Service: 5] 
+SERVER: 3[Arrival: 26, Service: 6] 
+SERVER: 41[Arrival: 23, Service: 4] 43[Arrival: 28, Service: 7] 
+Time 33
+Waiting tasks: 
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 35[Arrival: 24, Service: 1] 36[Arrival: 28, Service: 3] 32[Arrival: 30, Service: 1] 30[Arrival: 33, Service: 4] 48[Arrival: 33, Service: 6] 
+SERVER: 11[Arrival: 27, Service: 2] 28[Arrival: 32, Service: 5] 
+SERVER: 44[Arrival: 27, Service: 1] 50[Arrival: 28, Service: 5] 39[Arrival: 33, Service: 2] 
+SERVER: 3[Arrival: 26, Service: 5] 33[Arrival: 33, Service: 5] 
+SERVER: 41[Arrival: 23, Service: 3] 43[Arrival: 28, Service: 7] 45[Arrival: 33, Service: 5] 
+Time 34
+Waiting tasks: 
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 36[Arrival: 28, Service: 3] 32[Arrival: 30, Service: 1] 30[Arrival: 33, Service: 4] 48[Arrival: 33, Service: 6] 
+SERVER: 11[Arrival: 27, Service: 1] 28[Arrival: 32, Service: 5] 
+SERVER: 50[Arrival: 28, Service: 5] 39[Arrival: 33, Service: 2] 
+SERVER: 3[Arrival: 26, Service: 4] 33[Arrival: 33, Service: 5] 
+SERVER: 41[Arrival: 23, Service: 2] 43[Arrival: 28, Service: 7] 45[Arrival: 33, Service: 5] 
+Time 35
+Waiting tasks: 
+Task (7, 36, 1)
+Task (14, 36, 4)
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 36[Arrival: 28, Service: 2] 32[Arrival: 30, Service: 1] 30[Arrival: 33, Service: 4] 48[Arrival: 33, Service: 6] 
+SERVER: 28[Arrival: 32, Service: 5] 
+SERVER: 50[Arrival: 28, Service: 4] 39[Arrival: 33, Service: 2] 
+SERVER: 3[Arrival: 26, Service: 3] 33[Arrival: 33, Service: 5] 
+SERVER: 41[Arrival: 23, Service: 1] 43[Arrival: 28, Service: 7] 45[Arrival: 33, Service: 5] 
+Time 36
+Waiting tasks: 
+Task (21, 37, 5)
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 36[Arrival: 28, Service: 1] 32[Arrival: 30, Service: 1] 30[Arrival: 33, Service: 4] 48[Arrival: 33, Service: 6] 
+SERVER: 28[Arrival: 32, Service: 4] 7[Arrival: 36, Service: 1] 
+SERVER: 50[Arrival: 28, Service: 3] 39[Arrival: 33, Service: 2] 14[Arrival: 36, Service: 4] 
+SERVER: 3[Arrival: 26, Service: 2] 33[Arrival: 33, Service: 5] 
+SERVER: 43[Arrival: 28, Service: 7] 45[Arrival: 33, Service: 5] 
+Time 37
+Waiting tasks: 
+Task (34, 38, 2)
+ALL SERVERS: 
+SERVER: 32[Arrival: 30, Service: 1] 30[Arrival: 33, Service: 4] 48[Arrival: 33, Service: 6] 
+SERVER: 28[Arrival: 32, Service: 3] 7[Arrival: 36, Service: 1] 
+SERVER: 50[Arrival: 28, Service: 2] 39[Arrival: 33, Service: 2] 14[Arrival: 36, Service: 4] 
+SERVER: 3[Arrival: 26, Service: 1] 33[Arrival: 33, Service: 5] 21[Arrival: 37, Service: 5] 
+SERVER: 43[Arrival: 28, Service: 6] 45[Arrival: 33, Service: 5] 
+Time 38
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 30[Arrival: 33, Service: 4] 48[Arrival: 33, Service: 6] 
+SERVER: 28[Arrival: 32, Service: 2] 7[Arrival: 36, Service: 1] 34[Arrival: 38, Service: 2] 
+SERVER: 50[Arrival: 28, Service: 1] 39[Arrival: 33, Service: 2] 14[Arrival: 36, Service: 4] 
+SERVER: 33[Arrival: 33, Service: 5] 21[Arrival: 37, Service: 5] 
+SERVER: 43[Arrival: 28, Service: 5] 45[Arrival: 33, Service: 5] 
+Time 39
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 30[Arrival: 33, Service: 3] 48[Arrival: 33, Service: 6] 
+SERVER: 28[Arrival: 32, Service: 1] 7[Arrival: 36, Service: 1] 34[Arrival: 38, Service: 2] 
+SERVER: 39[Arrival: 33, Service: 2] 14[Arrival: 36, Service: 4] 
+SERVER: 33[Arrival: 33, Service: 4] 21[Arrival: 37, Service: 5] 
+SERVER: 43[Arrival: 28, Service: 4] 45[Arrival: 33, Service: 5] 
+Time 40
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 30[Arrival: 33, Service: 2] 48[Arrival: 33, Service: 6] 
+SERVER: 7[Arrival: 36, Service: 1] 34[Arrival: 38, Service: 2] 
+SERVER: 39[Arrival: 33, Service: 1] 14[Arrival: 36, Service: 4] 
+SERVER: 33[Arrival: 33, Service: 3] 21[Arrival: 37, Service: 5] 
+SERVER: 43[Arrival: 28, Service: 3] 45[Arrival: 33, Service: 5] 
+Time 41
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 30[Arrival: 33, Service: 1] 48[Arrival: 33, Service: 6] 
+SERVER: 34[Arrival: 38, Service: 2] 
+SERVER: 14[Arrival: 36, Service: 4] 
+SERVER: 33[Arrival: 33, Service: 2] 21[Arrival: 37, Service: 5] 
+SERVER: 43[Arrival: 28, Service: 2] 45[Arrival: 33, Service: 5] 
+Time 42
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 48[Arrival: 33, Service: 6] 
+SERVER: 34[Arrival: 38, Service: 1] 
+SERVER: 14[Arrival: 36, Service: 3] 
+SERVER: 33[Arrival: 33, Service: 1] 21[Arrival: 37, Service: 5] 
+SERVER: 43[Arrival: 28, Service: 1] 45[Arrival: 33, Service: 5] 
+Time 43
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 48[Arrival: 33, Service: 5] 
+Empty
+SERVER: 14[Arrival: 36, Service: 2] 
+SERVER: 21[Arrival: 37, Service: 5] 
+SERVER: 45[Arrival: 33, Service: 5] 
+Time 44
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 48[Arrival: 33, Service: 4] 
+Empty
+SERVER: 14[Arrival: 36, Service: 1] 
+SERVER: 21[Arrival: 37, Service: 4] 
+SERVER: 45[Arrival: 33, Service: 4] 
+Time 45
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 48[Arrival: 33, Service: 3] 
+Empty
+Empty
+SERVER: 21[Arrival: 37, Service: 3] 
+SERVER: 45[Arrival: 33, Service: 3] 
+Time 46
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 48[Arrival: 33, Service: 2] 
+Empty
+Empty
+SERVER: 21[Arrival: 37, Service: 2] 
+SERVER: 45[Arrival: 33, Service: 2] 
+Time 47
+Waiting tasks: 
+ALL SERVERS: 
+SERVER: 48[Arrival: 33, Service: 1] 
+Empty
+Empty
+SERVER: 21[Arrival: 37, Service: 1] 
+SERVER: 45[Arrival: 33, Service: 1] 
+Time 48
+Waiting tasks: 
+ALL SERVERS: 
+Empty
+Empty
+Empty
+Empty
+Empty
+-----------------Raport----------------
+Average waiting time: 6.96
+Average serving time: 4.24
+Peak hour: 33

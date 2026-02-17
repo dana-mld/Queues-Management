@@ -31,6 +31,18 @@ The project presents concepts of:
 - **Logging System:** Generates a `log.txt` file with detailed simulation steps and queue states.
 
 ---
+## Graphical Interface
+
+The application includes a structured and visually organized Swing interface:
+
+- Smooth animations when tasks move between queues
+- Separate panels for waiting tasks and active servers
+- Real-time simulation clock
+- Color-coded task blocks for clarity
+- Smooth animations when tasks move between queues
+- Dynamic resizing of server panels based on queue length
+
+The GUI updates in real time and reflects the internal state of the simulation as it evolves.
 
 ## Simulation Logic
 
